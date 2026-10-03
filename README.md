@@ -1,8 +1,8 @@
-﻿# Paysure ðŸ’³
+# Paysure
 
-A modern, secure payment processing dashboard built with Next.js.
+A modern payment processing dashboard built with Next.js.
 
-**Live Demo:** [paysure-hazel.vercel.app](https://paysure-hazel.vercel.app)
+**Live:** [paysure-hazel.vercel.app](https://paysure-hazel.vercel.app)
 
 ## Tech Stack
 
@@ -15,11 +15,11 @@ A modern, secure payment processing dashboard built with Next.js.
 
 ## Features
 
-- ðŸ’° **Transaction Dashboard** â€” Real-time payment monitoring
-- ðŸ“Š **Analytics** â€” Revenue charts, success rates, volume trends
-- ðŸ” **Secure Checkout** â€” PCI-compliant payment flows
-- ðŸ“‹ **Payment History** â€” Searchable transaction log
-- ðŸ”” **Webhook Handling** â€” Real-time payment status updates
+- Transaction dashboard -- real-time payment monitoring
+- Analytics -- revenue charts, success rates, volume trends
+- Secure checkout -- PCI-compliant payment flows
+- Payment history -- searchable transaction log
+- Webhook handling -- real-time payment status updates
 
 ## Getting Started
 
@@ -33,4 +33,4 @@ npm run dev
 
 ## License
 
-MIT Â© [Atharva Desai](https://github.com/atharvez)
+MIT (c) Atharva Desai
